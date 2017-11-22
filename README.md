@@ -10,8 +10,6 @@ Future versions may include tools such as exploratory ACF/PACF analysis or the p
 The current tool assumes stationarity in the temporal sequence of values. Given a sequence of temporal raster images, this tool runs the block maxima (minima) approach in order to calculate return levels for the desired return period(s). 
 The script tool uses external [R software](https://www.r-project.org/) routines for all calculations.
 
-<img src="Pics/droughtrisk.jpg" alt="Return Levels Map" title="Return Levels Map" height="300">
-
 For more updated versions of this toolbox and script tool, please keep checking the newer CHANS tools [R-ArcGIS Bridge](https://r-arcgis.github.io/) repository.
 
 ## Software Dependencies
